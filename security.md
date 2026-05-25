@@ -5,7 +5,6 @@ All security vulnerabilities will be promptly addressed.
 
 ## Supported Versions
 
-
 | Version | Supported |
 | ------- | --------- |
 | 1.0.x   | Yes       |
