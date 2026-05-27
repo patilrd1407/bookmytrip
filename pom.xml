@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>bookmytrip</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<version>0.0.1</version>
+	<name>bookmytrip</name>
+    <!-- <packaging>war</packaging> -->
+    <description>Book My Trip</description>
 	<url/>
 	<licenses>
 		<license/>
