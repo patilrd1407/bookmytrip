@@ -13,7 +13,7 @@
 	<version>0.0.1</version>
 	<name>bookmytrip</name>
     <!-- <packaging>war</packaging> -->
-	<description/>
+    <description>Book My Trip</description>
 	<url/>
 	<licenses>
 		<license/>
